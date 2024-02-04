@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Volunteered as a English teacher in Brazil before I started studying systems development
+- ⚡ Fun fact: I Volunteered as a English teacher in Brazil and was studying modern languages (Portuguese - English) before I started studying systems development
 
 <!---
 Mathkaiz/Mathkaiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
